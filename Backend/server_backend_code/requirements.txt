@@ -1,0 +1,12 @@
+transformers
+torch>=2.0.0
+accelerate
+safetensors
+pillow
+torchvision
+tqdm
+tensorizer>=2.7.0
+diffusers
+pydantic
+matplotlib
+numpy

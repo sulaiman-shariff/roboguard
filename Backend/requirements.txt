@@ -1,0 +1,15 @@
+flask_cors
+flask
+transformers
+ultralytics
+opencv-python-headless
+pillow
+numpy
+librosa
+tensorflow
+torch
+facenet_pytorch
+https://github.com/jacobgil/pytorch-grad-cam/archive/refs/heads/master.zip
+soundfile
+torchaudio
+tf-keras
